@@ -24,8 +24,8 @@ To get started with the Virtual Memory Visualizer, follow these simple steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/virtual-memory-visualizer.git
-   cd virtual-memory-visualizer
+   git clone https://github.com/Nagendraindus/memory-page-replacement-visualizer.git
+
    ```
 
 2. **Open the Project**
