@@ -30,7 +30,7 @@ To get started with the Virtual Memory Visualizer, follow these simple steps:
 
 2. **Open the Project**
 
-   Open the `index.html` file in your preferred web browser.
+   Open the `index3.html` file in your preferred web browser.
 
 3. **Enter Your Parameters**
 
