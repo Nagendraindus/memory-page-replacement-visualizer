@@ -2,7 +2,7 @@
 Interactive web app that helps users understand virtual memory management in OS. Simulate and visualize algorithms like FIFO, LRU, and MRU. Ideal for students and educators, it offers customizable parameters, step-by-step explanations, and a user-friendly interface to explore memory management concepts.
 ## FIFO
 ![image](https://github.com/user-attachments/assets/d89b890d-027d-48e6-a552-5244f2a4bf54)
-##LRU
+## LRU
 ![image](https://github.com/user-attachments/assets/92386158-e1ca-4fab-8eb1-66c16ecc16e4)
 ## MRU
 ![image](https://github.com/user-attachments/assets/a3c7321d-6bad-40ba-9e7a-6523b62d8c4a)
